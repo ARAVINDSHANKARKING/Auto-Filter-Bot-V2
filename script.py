@@ -1,17 +1,17 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>Hi {} ഞാൻ @HOMETHEATREMAIN ile ബോട്ട് ആണ് 
 
-You can call this as an Auto Filter Bot if you like :D
 
-This is Version 2 of Auto Filter Bot
 
-Bot gives button link to files in connected channels on query !
 
-No need to add filters for your files or movies from now on!
 
-For more click <i>help</i></b>"""
+
+
+
+
+ പോടാ """
 
 
     HELP_MSG = """<b>How to use the bot??</b>
@@ -58,7 +58,7 @@ Bot will automatically search for your files and give links to that!
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @ARAVINDSHANKAR74
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
